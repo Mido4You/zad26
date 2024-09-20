@@ -1,0 +1,10 @@
+div#logo {
+    background-color: rgb(150, 17, 17);
+    color: rgb(189, 189, 189);
+    font: 55px arial;
+    text-align: center;
+    text-shadow: silver 3px 3px 10px;
+    border: dashed silver;
+    letter-spacing: 15px;
+    border-radius: 15px;
+}
